@@ -1,0 +1,25 @@
+body{
+  background-color:#f3efef;
+  }
+  .mainpage{
+  margin-left:200px;
+  height:auto;
+  width:70%;
+  background-color:#85e6f5;
+  box-shadow:5px 5px 5px #000000;
+  }
+  *{
+  font-family:Georgia, "Times New Roman", Times, serif;
+  }
+  h1.heading1,h5{
+  text-align:center;
+  color:#FFFFFF;
+  padding:5px;
+  }
+  img{
+  margin-left:210px;
+  }
+  p{
+  text-align:center;
+  padding:10px;
+  }
