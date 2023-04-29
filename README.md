@@ -1,2 +1,3 @@
 TRIBUTE PAGE:
-With a basic understanding of HTML and CSS, you can easily create a page for someone you admire. Write about what you adore in the person, add images, give an appealing layout, use paragraphs appropriately. You can also play around with different font styles and background colors.
+With a basic understanding of HTML and CSS, I've created a page for someone you admire. 
+Written about what I adore in the person, added images, give an appealing layout, used paragraphs appropriately with different font styles and background colors.
